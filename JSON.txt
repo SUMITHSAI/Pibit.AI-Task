@@ -1,0 +1,198 @@
+Parse the following resume into JSON format:
+
+Koraboina Sumith Sai
+sumithsai10@gmail.com | 9849345652 | Website
+
+EDUCATION
+SRM INSTITUTE OF SCIENCE
+AND TECHNOLOGY
+B.TECH
+COMPUTER SCIENCE AND
+ENGINEERING WITH SPECIALIZATION
+IN CLOUD COMPUTING
+2025 | Chennai, INDIA
+CGPA: 8.99
+NARAYANA JUNIOR COLLEGE
+Grad. May 2021 | Hyderabad, Telangana,
+India
+Class XII: 89.6%
+NARAYANA HIGH SCHOOL
+Grad. June 2019 | Sangareddy,
+Telangana, India
+Class X: 95.5%
+LINKS
+Portfolio
+Github
+LinkedIn
+SKILLS
+PROGRAMMING
+C++ • C • JavaScript (ES6)
+Python • HTML5 • CSS3
+WEB DEVELOPMENT
+React.js •Angular8 •Bootstrap •Tailwind
+CSS •jQuery •Express.js • Node.js • PHP •
+MongoDB • MySQL • VScode • Git •
+Github • RESTful APIs • AWS
+SOFT SKILLS
+Public Speaking & Relations • Project
+Management & Business Operations
+CERTIFICATIONS
+• Oracle Cloud Infrastructure
+• Oracle Cloud Data Management
+• Networking Essentials
+• Database Management Essentials
+• Introduction to Machine Learning (NPTEL)
+LANGUAGES
+• English •Hindi •Telugu
+CO-CURRICULAR
+• Designing
+• Photography
+• Movies
+
+EXPERIENCE
+GEEKS FOR GEEKS | GFG CAMPUS AMBASSADOR
+May 2022 - June 2023 | Chennai, IN
+• Campus leaderrepresenting Geeks for Geeks at SRM University, fostering a
+strong coding and tech community.
+• Orchestrated numerous virtual coding competitions, engaging hundreds of
+students and guiding them in aligning with their career aspirations.
+• Spearheaded and executed technical workshops and coding contests offline,
+enhancing technical proficiency and fostering a competitive spirit among
+students.
+AWS | CLOUD VIRTUAL INTERNSHIP (AICTE)
+May 2023 – July 2023 | Remote
+• Selected for an exclusive 2-month virtual internship program on Cloud
+Technology, supported by AWS Academy, with the aim to cultivate an
+industry-ready workforce in emerging technologies.
+• Engaged in an intensive 4-week online course, mastering cloud technology
+through AWS Academy and successfully completed assessments.
+OPEN WEAVER | FULL STACK DEVELOPER INTERN
+Aug 2023 – Oct 2023 | Remote
+• Engaged in hands-on coding projects, gaining practical experience in creating
+interactive web applications.
+• Earned weekly badges for completing program activities and received an
+Internship Completion Certificate,recognizing successful acquisition and
+application of web development skills.
+AASHMAN FOUNDATION | CONTENT WRITING
+Oct 2022 – Dec 2022 | Remote
+• Contributed to the foundation’s mission by creating engaging and informative
+content, including pitches, news writing, and mailers, enhancing the
+foundation’s online presence and outreach.
+• Supported the foundation’s initiatives in Education, Empowerment, and
+Environment by creating content to promote their programs and
+achievements.
+COMPETETIONS
+Mar 2024 National IEE SRMIST Ideathon
+Dec 2023 International Cricket Code Champions
+Nov 2023 National EY Techathon 4.0
+Sep 2023 National Techsurf 2023
+Sep 2023 National J&J Crackathon
+Aug 2023 National Xiaomi Ode2Code 3
+AWARDS
+SRM MERIT SCHOLARSHIP
+• Received a prestigious fee waiver of INR 700,000 (7 lakh rupees) in
+recognition of securing the 141st nationalrank in the SRMJEE 2021
+Phase 2 Entrance Exam.
+
+POSITIONS OF
+RESPONSIBILITY
+TEAM SRM HACKATHON
+Technical Lead
+Aug 2022 - Present
+• Played a pivotalrole in promoting
+technology and innovation through
+hackathons, tech & startup talks,
+workshops, coding challenges, and
+ideathons.
+• Created and launched the official
+website for TEAM SRM HACKATHON,
+enhancing online presence and
+accessibility for participants and
+attendees.
+SRM IEC | Technical and
+Design Member
+Aug 2022 - 2023
+• Significantly contributed to the
+development of SRM IEC’s official
+website, enhancing its online presence
+and engagement.
+• Created engaging visual content
+including Instagram posts, stories, event
+banners, and t-shirt designs to promote
+SRM IEC events and improve its visual
+identity.
+ACHIEVEMENTS
+HACKSUMMIT 8.0
+2nd Position | SRMIST-KTR
+Sep 2023
+• Secured 2nd position by sustaining 4
+eliminations rounds out of 45 teams &
+886 participants in a challenging 36-hour
+international hackathon.
+• Developed a website focusing on
+Sustainable Development, promoting
+sustainable food consumption and waste
+management.
+• Key features included Diet tracking,
+Personalized recommendations, and
+food community support.
+FUTURITHON 1.0
+2nd Position | SRMIST-KTR
+Sep 2023
+• Developed an online integrated
+platform to enhance collaboration and
+knowledge sharing among students and
+faculties from SRM University and
+universities nationwide.
+• Focused on a centralized web-based
+hub for academic projects,research
+papers, and educational documentation.
+
+PROJECTS
+RENTOUSE : Modern Property Renting Platform| MERN Stack
+Mar 2023 - Apr 2023
+• Developed a modern real estate marketplace utilizing the MERN stack ,
+incorporating JWT authentication and Redux Toolkit for efficient state
+management.
+• Implemented user authentication, property listings, and search functionality
+to create a seamless interface for buyers and sellers to interact.
+• Technology Stack: MERN (MongoDB, Express.js, React.js, Node.js), JWT,
+Redux Toolkit
+EDULINK : The Academic Collaboration Hub | Website
+Nov 2023 – Jan 2023
+• Developed Edu Link, a centralized platform to unite students and faculties
+from SRM University and various universities/colleges nationwide, focusing
+on projects,research papers, and academic documentation.
+• Implemented the frontend using Bootstrap, HTML, CSS, and PHP, providing
+an intuitive interface for users.
+• Technology Stack: Bootstrap, HTML, CSS, PHP.
+HMS | Hospital Management System
+Jan 2023 – Apr 2023
+• Developed a web-based application to streamline hospital operations,
+including patientregistration, appointment scheduling, EHR management,
+billing and invoicing, inventory and pharmacy management, and staff
+scheduling.
+• Utilized PHP and SaaS for backend development, ensuring robust
+management of patient information and appointments. Designed a
+user-friendly interface with CSS, jQuery, and Bootstrap, and implemented
+JavaScript functionalities for enhanced interactivity and efficient data
+retrieval.
+• Integrated a MySQL database to securely store and manage EHR and other
+hospital data, ensuring data integrity and compliance with security standards.
+VOLUNTEER EXPERIENCE
+HACKTOBERFEST'23 | Open source contributions
+Oct 2023
+• Actively participated in Hacktoberfest, contributing to various open source
+projects.
+• Demonstrated commitment to open source collaboration by making
+substantial contributions.
+• Contributions included code improvements and documentation updates.
+• Multiple pullrequests were accepted and merged, showcasing technical skills
+and teamwork.
+AARUUSH | sponsorship & Marketing (S&M)
+Sep 2021 - Nov 2022
+• As a Sales and Marketing member of Aaruush, I devised and implemented
+strategies to promote the event, managed sponsorships, and increased
+participation through effective communication and outreach. I collaborated
+with various teams to enhance brand visibility, drive ticket sales, and establish
+partnerships with potential sponsors and participants.
